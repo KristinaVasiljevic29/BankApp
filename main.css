@@ -1,0 +1,14 @@
+.bc{
+  background-color: #ddd;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+#addView{
+  display: none;
+}
+#eddeView{
+  display: none;
+}
+#editView{
+  display: none;
+}
